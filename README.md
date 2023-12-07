@@ -1,5 +1,7 @@
 # LongScope: Assessing Contextual Comprehension in LLMs
 
+<img src="https://github.com/mrconter1/LongScope/assets/32551374/51b24731-98d0-43cc-9a5b-78aa7b01a336" width="150" height="150">
+
 ## Overview
 
 LongScope is a modest yet comprehensive benchmark designed to test and evaluate the capacity of large language models (LLMs) in managing long contextual dependencies. In the realm of natural language processing, retaining and applying information from extended contexts remains a significant challenge for LLMs. LongScope aims to assess the capability of these models to intelligently process and integrate information dispersed across extensive textual segments, advancing beyond simple sentence extraction or retrieval.
