@@ -1,4 +1,4 @@
-# LongScope: Assessing Contextual Comprehension in LLMs
+# LongScope: Assessing fragmented knowledge use in extended contexts in LLMs
 
 <img src="https://github.com/mrconter1/LongScope/assets/32551374/51b24731-98d0-43cc-9a5b-78aa7b01a336" width="150" height="150">
 
