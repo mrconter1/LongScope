@@ -1,4 +1,4 @@
-# LongScope: Assessing Contextual Comprehension in Large Language Models
+# LongScope: Assessing Contextual Comprehension in LLMs
 
 ## Overview
 
